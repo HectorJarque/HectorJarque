@@ -31,9 +31,13 @@
 
 <p align="center">
 <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50"/></a>
+<a href="https://angular.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="50"/></a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/></a>
+</p>
+
