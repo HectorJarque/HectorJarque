@@ -10,10 +10,10 @@
   
 <td width="50%" align="left">
   
-- 🌱 On a journey to become a **Full-Stack Developer**  
-- 🧑‍🎓 Second-year **DAW student**  
-- 💬 Curious about **Web Tech & Related Things**  
-- ⚡ Fun fact: **I like trying out different tech**  
+- On a journey to become a **Full-Stack Developer**  
+- Second-year **DAW student**  
+- Curious about **Web Tech & Related Things**  
+- Fun fact: **I like trying out different tech**  
 
 </td>
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">Core Tech Stack</h3>
+<h3 align="center">Tech I'm Growing With</h3>
 <p align="center">
   <a href="https://nestjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="50"/></a>
   <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/></a>
