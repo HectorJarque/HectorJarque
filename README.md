@@ -5,7 +5,7 @@
 
 <!-- ===== SVG ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=640&height=55&lines=Full-Stack+Junior+Developer;Kotlin+%2B+Spring+Boot+%7C+Angular+%2B+TypeScript;Fintech+Industry+Experience;Always+learning%2C+always+shipping..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=640&height=55&lines=Full-Stack+Junior+Developer;Kotlin+%2B+Spring+Boot+%7C+Angular+%2B+TypeScript;Always+learning%2C+always+shipping..." alt="Typing SVG" />
 </p>
 
 <!-- ===== BADGES ===== -->
