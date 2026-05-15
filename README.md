@@ -62,7 +62,7 @@ I build end-to-end solutions with **Kotlin + Spring Boot** on the backend and **
 <h3 align="center">Also worked with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,python,mysql,git,linux,vscode&perline=9&theme=dark" alt="Secondary Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,python,mysql,git,linux,&perline=9&theme=dark" alt="Secondary Tech Stack"/>
 </p>
 
 <br/>
@@ -73,25 +73,14 @@ I build end-to-end solutions with **Kotlin + Spring Boot** on the backend and **
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HectorJarque&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorJarque&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <!-- =====   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorJarque&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>   ===== -->
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorJarque&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 <br/>
 
-<!-- ===== TROPHIES ===== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HectorJarque&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
----
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 <p align="center">
