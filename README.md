@@ -56,13 +56,13 @@ I build end-to-end solutions with **Kotlin + Spring Boot** on the backend and **
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,spring,angular,ts,java,mongodb,js,html,css&perline=9&theme=dark" alt="Main Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,angular,ts,mongodb,js,html,css&perline=9&theme=dark" alt="Main Tech Stack"/>
 </p>
 
 <h3 align="center">Also worked with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,python,mysql,git,linux,&perline=9&theme=dark" alt="Secondary Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,java,python,mysql,git,linux,&perline=9&theme=dark" alt="Secondary Tech Stack"/>
 </p>
 
 <br/>
