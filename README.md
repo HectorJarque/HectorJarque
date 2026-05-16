@@ -73,7 +73,7 @@ I build end-to-end solutions with **Kotlin + Spring Boot** on the backend and **
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <!-- =====   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorJarque&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>   ===== -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorJarque&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&include_all_commits=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
