@@ -1,11 +1,11 @@
 <!-- Firmado por Héctor Jarque. AKA Kallik -->
 
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f3460&height=200&section=header&text=Héctor%20Jarque&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20(Angular%20%7C%20Spring%20Boot)&descAlignY=58&descSize=16&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f3460&height=200&section=header&text=Héctor%20Jarque&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20(Kotlin%20%7C%20Spring%20Boot%20%7C%20Angular)&descAlignY=58&descSize=16&descColor=8b949e"/>
 
 <!-- ===== TYPE INTRO ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Angular+%2B+Spring+Boot+Developer;Building+production-ready+apps;Clean+architecture+%7C+scalable+systems;Fintech+experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer+(Kotlin+%2B+Spring+%2B+Angular);Building+end-to-end+applications;Clean+architecture+%7C+scalable+systems;Fintech+experience" />
 </p>
 
 <!-- ===== STATUS BADGES ===== -->
@@ -19,14 +19,15 @@
 
 ## About
 
-Full-Stack developer focused on **Angular + Spring Boot**, building real applications with clean structure and maintainable architecture.
+Full-Stack developer working with **Kotlin, Spring Boot and Angular**, building complete applications from backend to frontend with a focus on structure and maintainability.
 
-Background in fintech environments where reliability and structure are not optional.
+Experience in fintech environments where reliability, consistency and clean architecture matter.
 
 I focus on:
-- Angular apps with clean state and structure
-- Spring Boot APIs that don’t become spaghetti
-- Writing code that is easy to scale later
+- Designing scalable backend systems with Kotlin + Spring Boot
+- Building responsive and structured frontend apps with Angular
+- Connecting both layers through clean and well-defined APIs
+- Thinking in end-to-end system design, not isolated features
 
 Outside coding: automation, music, and gaming.
 
@@ -35,15 +36,19 @@ Outside coding: automation, music, and gaming.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,typescript,angular,spring,java,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,java,angular,typescript,postgres,mysql,docker,git,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Main stack:</b>  Kotlin • TypeScript • Angular • Spring Boot
+  <b>Main stack:</b> Kotlin • Spring Boot • Angular • TypeScript • Full-Stack Architecture
 </p>
 
+---
+
+## Other tools & exposure
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,python,mysql,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,python,js,html,css&theme=dark" />
 </p>
 
 ---
@@ -62,9 +67,10 @@ Outside coding: automation, music, and gaming.
 
 ## Current focus
 
-- Improving software design and architectural thinking
-- Building scalable and well-structured frontend and backend systems
-- Writing maintainable, production-ready code
+- Improving software design and architectural thinking across frontend and backend  
+- Building scalable full-stack systems with Kotlin, Spring Boot and Angular  
+- Designing clean APIs and maintainable frontend-backend integrations  
+- Strengthening understanding of system design and software architecture  
 
 ---
 
