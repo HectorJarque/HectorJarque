@@ -35,11 +35,11 @@ Outside coding: automation, music, and gaming.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,spring,kotlin,java,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,typescript,angular,spring,java,js,html,css&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Main stack:</b> Angular • TypeScript • Spring Boot • Kotlin
+  <b>Main stack:</b>  Kotlin • TypeScript • Angular • Spring Boot
 </p>
 
 <p align="center">
