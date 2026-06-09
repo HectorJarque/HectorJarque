@@ -10,9 +10,11 @@
 
 <!-- ===== STATUS BADGES ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HectorJarque&style=flat-square&color=0f3460&label=views"/>
-  <img src="https://img.shields.io/badge/status-active-3fb950?style=flat-square"/>
-  <img src="https://img.shields.io/badge/focus-full%20stack-58a6ff?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=HectorJarque&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-58a6ff?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-New%20Opportunities-3fb950?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
