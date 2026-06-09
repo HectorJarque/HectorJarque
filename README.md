@@ -56,10 +56,6 @@ Outside coding: automation, music, and gaming.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HectorJarque&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorJarque&theme=tokyonight&hide_border=true" />
 </p>
 
