@@ -38,11 +38,11 @@ Outside coding: automation, music, and gaming.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,spring,java,angular,typescript,postgres,mysql,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,angular,typescript,javascript,mongodb,git,github,html,css&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Main stack:</b> Kotlin • Spring Boot • Angular • TypeScript • Full-Stack Architecture
+  <b>Main stack:</b> Kotlin • Spring Boot • Angular • TypeScript
 </p>
 
 ---
@@ -50,8 +50,9 @@ Outside coding: automation, music, and gaming.
 ## Other tools & exposure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,python,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,python,postgres,docker,java&theme=dark" />
 </p>
+
 
 ---
 
