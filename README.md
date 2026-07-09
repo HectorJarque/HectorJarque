@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/hector-jarque-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=2fa89a" alt="LinkedIn"/>
   </a>
+  
   <a href="https://github.com/HectorJarque">
     <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=2fa89a" alt="GitHub"/>
   </a>
@@ -73,14 +74,6 @@ Outside coding: automation, music, and gaming.
 <p align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HectorJarque&show_icons=true&theme=tokyonight&hide_border=true&title_color=2fa89a&icon_color=2fa89a&count_private=true" alt="GitHub Stats"/>
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HectorJarque&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&include_all_commits=true&hide=html,css&title_color=2fa89a" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorJarque&theme=tokyonight&hide_border=true&ring=2fa89a&fire=2fa89a&currStreakLabel=2fa89a" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorJarque&theme=react-dark&hide_border=true&bg_color=0d1117&color=2fa89a&line=2fa89a&point=ffffff" alt="Activity Graph"/>
 </p>
 
 <p align="center">
