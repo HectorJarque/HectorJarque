@@ -98,5 +98,4 @@ Outside coding: automation, music, and gaming.
 - Strengthening understanding of system design and software architecture
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?
-type=waving&color=0:2fa89a,100:0d1117&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2fa89a&height=200&section=footer&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=16&descColor=8b949e" alt="Footer banner"/>
