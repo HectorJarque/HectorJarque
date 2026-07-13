@@ -21,10 +21,6 @@
   <a href="https://www.linkedin.com/in/hector-jarque-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=2fa89a" alt="LinkedIn"/>
   </a>
-  
-  <a href="https://github.com/HectorJarque">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=2fa89a" alt="GitHub"/>
-  </a>
 </p>
 
 ---
