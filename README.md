@@ -67,10 +67,10 @@ Outside coding: automation, music, and gaming.
 
 ## GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HectorJarque&show_icons=true&theme=tokyonight&hide_border=true&title_color=2fa89a&icon_color=2fa89a&count_private=true" alt="GitHub Stats"/>
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HectorJarque&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&include_all_commits=true&hide=html,css&title_color=2fa89a" alt="Top Languages"/>
-</p>
+</p>  --> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HectorJarque/HectorJarque/output/isocalendar.svg" alt="Isometric commit calendar"/>
